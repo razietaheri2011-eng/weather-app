@@ -1,2 +1,2 @@
 # weather-app
-weather project-JS
+weather-app project-JS
